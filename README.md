@@ -10,7 +10,7 @@ Reinforcement Learning
 Quant Trading
 
 1. Sucessfully completed Intro to financial python suggested By mentor.
-2. 2.Traded in Live Markets to get insights.
+2. Traded in Live Markets to get insights.
 3. Coded a Pine Script indicator for personal use on trading View (simple).
 4. Got familiar with BlueShift Platform. 
 
