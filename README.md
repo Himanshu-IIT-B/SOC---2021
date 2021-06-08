@@ -8,7 +8,6 @@ Reinforcement Learning
 2. Implemented Q-Learning via Grid - World Problem and Tic-Toc Toe codes
 
 Quant Trading
-
 1.Sucessfully completed Intro to financial python suggested By mentor
 2.Traded in Live Markets to get insights
 3.Coded a Pine Script indicator for personal use on trading View (simple)
