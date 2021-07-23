@@ -20,5 +20,4 @@ Coding Part
 
 1. USed A2C based Agent to Backtest on AAPL 1 year using RSI 13SMA and OBV oscillator.
 2. Working with different Combination of Indicators for optimal performance.
-3. Coded a Pine Script indicator for personal use on trading View (simple).
 4. Working on DDPG based agent for increasing it's adaptivity towards data.
