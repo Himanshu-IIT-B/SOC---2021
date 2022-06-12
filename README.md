@@ -18,7 +18,7 @@ Quant Trading
 2. Traded in Live Markets to get insights.
 3. Coded a Pine Script indicator for personal use on trading View (simple).
 4. Got familiar with BlueShift Platform. 
-5. Back-tested and Forward traded Intraday @9.20 Short Straddle(Bank Nifty) with exit at 3.25pm, concluded with 3 green weeks and 1 with minor loss in a month (at India-VIX in the range 13-19)
+
 
 
 
